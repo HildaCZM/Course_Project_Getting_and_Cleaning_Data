@@ -11,8 +11,8 @@ activity_name: specific activities individuals were performing, 6 levels: WALKIN
 ## Variables
 The rest of the variables are average values of the Mean and Standard deviation (Std) of the measurements in the 3 axis (X,Y,Z) of the accelerometer (Acc) and giroscope (Gyro), corresponding to the Body or the Gravity acceleration signals. Prefix 't' denotes time. The body linear acceleration and angular velocity were derived in time to obtain Jerk signals. 
 
- t:time domain signal
- Gyro:gyroscope signal
+- t:time domain signal
+- Gyro:gyroscope signal
  Acc:acceleration signal
  Jerk:jerk signal obtained from linear acceleration and angular velocity
  Mag:magnitude of signal
