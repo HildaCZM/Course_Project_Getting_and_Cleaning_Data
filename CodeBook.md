@@ -23,7 +23,7 @@ The rest of the variables are average values of the Mean and Standard deviation 
 - -XYZ:3-axial signals in the X, Y, Z directions
 - f:fast Fourier transform of the signal
  
-## Measurements: time and frequecy
+## Measurements: time and frequecy in the original data
   
 The following variables measure the time domain response of the signals from the accelerometer and the gyroscope. In the summary dataset, these values are the averages over all observations for a particular subject and activity.
 
